@@ -1,3 +1,7 @@
+//npm install
+//npm install --only=dev
+//npm start
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 
